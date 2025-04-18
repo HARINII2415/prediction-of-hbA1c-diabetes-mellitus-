@@ -49,6 +49,9 @@ The model is trained using HbA1c-based Diabetes Dataset sourced from Kaggle / UC
 
 Preprocessed and split into training and testing sets with proper scaling.
 
+🖼️ Demo Screenshot
+![image](https://github.com/user-attachments/assets/116a9a41-52b9-4163-b0ed-c792c41b7e3b)
+
 
 
 🧑‍💻 Developed By
